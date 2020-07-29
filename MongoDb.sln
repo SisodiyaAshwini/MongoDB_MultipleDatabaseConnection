@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleConnection", "MultipleConnection\MultipleConnection.csproj", "{29390165-5D1D-451F-8044-B38EF3BAFAF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{BD0FB869-FA7F-4F18-9212-EA9D522FCEB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0484328A-F9AB-4FD6-AA60-CA3CC27C2273}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29390165-5D1D-451F-8044-B38EF3BAFAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29390165-5D1D-451F-8044-B38EF3BAFAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29390165-5D1D-451F-8044-B38EF3BAFAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29390165-5D1D-451F-8044-B38EF3BAFAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0FB869-FA7F-4F18-9212-EA9D522FCEB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0FB869-FA7F-4F18-9212-EA9D522FCEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0FB869-FA7F-4F18-9212-EA9D522FCEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0FB869-FA7F-4F18-9212-EA9D522FCEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B5F0EFF-ED3B-4052-96CB-E63BFFFBE786}
+	EndGlobalSection
+EndGlobal
